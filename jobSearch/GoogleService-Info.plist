@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>922525928770-1n9451vvi0l43kfeps1vqi98o12vp2ri.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922525928770-1n9451vvi0l43kfeps1vqi98o12vp2ri</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCns54h4hrkPpBRcfSgeD9tHRazUxMQtJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922525928770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.StudentDevs.jobSearch</string>
+	<key>PROJECT_ID</key>
+	<string>cpsc490-calendar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cpsc490-calendar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922525928770:ios:85043421e40288016c4cdb</string>
+	<key>DATABASE_URL</key>
+	<string>https://cpsc490-calendar.firebaseio.com</string>
+</dict>
+</plist>
